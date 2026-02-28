@@ -113,7 +113,7 @@ hr{
 	}
 
 .social:hover{
-	filter:brightness(150%);
+	filter:brightness(20%);
 	transition: all 0.5s;
 	}
 
