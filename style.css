@@ -134,6 +134,9 @@ hr{
 	font-size:80%;
 	}
 
+.textlink{
+	color: #ececec;	
+}
 .title{
 	display:flex;
 	justify-content:center;
