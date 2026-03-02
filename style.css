@@ -135,7 +135,7 @@ hr{
 	}
 
 .textlink{
-	color: #ececec;	
+	text-decoration:underline;	
 }
 .title{
 	display:flex;
